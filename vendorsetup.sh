@@ -1,1 +1,1 @@
-add_lunch_combo aokp_i9100-userdebug
+add_lunch_combo full_i9100-userdebug
